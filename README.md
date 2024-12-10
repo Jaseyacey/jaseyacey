@@ -13,6 +13,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on ex
 
 ![Jaseyacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaseyacey&show_icons=true&theme=radical)
 
+## My GitHub Streak
+![GitHub Streak Counter](https://github-readme-streak-stats.herokuapp.com/?user=Jaseyacey)
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonbeedle/)
