@@ -1,4 +1,4 @@
-# Hi there, I'm Jaseyacey! 👋
+# Hi there, I'm Jason! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves working on exciting projects and learning new technologies. Here's a bit about me:
 
